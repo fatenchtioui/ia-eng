@@ -26,7 +26,7 @@ Feel free to manipulate or abstract the datasets into other formats that may be 
 
 - Python
 - FastAPI
-- A language model of your choice (e.g., OpenAI's GPT models, Hugging Face's models)
+-  OpenAI's GPT models
 - Any frontend technology
 
 ## Evaluation Criteria
