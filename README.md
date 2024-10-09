@@ -48,4 +48,4 @@ Please reply to the email in which you received this coding challenge with the f
 
 1. A link to the deployed application where it's running live.
 2. A link to the GitHub repository containing your source code, which must include:
-   - A comprehensive README.md :https://github.com/fatenchtioui/ia-challenge
+   - A comprehensive README.md :https://github.com/fatenchtioui/ia-eng
