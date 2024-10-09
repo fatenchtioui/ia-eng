@@ -18,6 +18,7 @@ import time
 load_dotenv()
 
 # Set the OpenAI API key
+
 openai.api_key = os.getenv("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")
 
 class RAGSystem:
