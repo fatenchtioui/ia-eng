@@ -42,4 +42,10 @@ Feel free to manipulate or abstract the datasets into other formats that may be 
 - File/repository organization
 - README.md clarity and completeness
 - Deployment of the application (e.g., Vercel, Render, Heroku)
+## Submission Guidelines
 
+Please reply to the email in which you received this coding challenge with the following:
+
+1. A link to the deployed application where it's running live.
+2. A link to the GitHub repository containing your source code, which must include:
+   - A comprehensive README.md :https://github.com/fatenchtioui/ia-challenge
